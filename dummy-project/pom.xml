@@ -33,13 +33,13 @@
 				<configuration>
 				<cloudHubDeployment>
                         <uri>https://anypoint.mulesoft.com</uri>
-                        <username>Neeharika_7</username>
+                        <username>Neeharika_77</username>
                         <password>Pawanpk52!</password>
                         <environment>Sandbox</environment>
                         <muleVersion>4.3.0</muleVersion>
                         <workers>1</workers>
                         <workerType>Micro</workerType>
-                        <applicationName>dummy-project-kash</applicationName>
+                        <applicationName>dummy-project-neeha</applicationName>
                         <objectStoreV2>true</objectStoreV2>
                     </cloudHubDeployment>
 				</configuration>
